@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'clients',
     'rents',
     'companys',
+    'api',
     
     #third party package
     'rest_framework',
